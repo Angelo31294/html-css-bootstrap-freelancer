@@ -5,14 +5,13 @@
     background-color: #2c3e50;
     color: #fff;
 }
-.ms-main-nav ul{
+.list-style{
     display: flex;
-    justify-content: flex-end;
     align-items: center;
     list-style: none;
     margin-bottom: 0;
 }
-.ms-main-nav li{
+li{
     padding-left: 1.875rem;
 }
 .ms-main-nav a{
@@ -37,7 +36,14 @@
     MAIN
 --------------------*/
 #hero{
+    background-color: #1abc9c;
     color: #fff;
+}
+#hero img{
+    max-height: 16.25rem;
+}
+.col-12 .list-style{
+    padding: 0;
 }
 
 /*------------------
