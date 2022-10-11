@@ -79,3 +79,7 @@ li{
 /*------------------
     FOOTER
 --------------------*/
+.ms-bc-footer-top{
+    background-color: #3a546d;
+    color: #fff;
+}
