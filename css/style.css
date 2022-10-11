@@ -23,7 +23,16 @@
     display: none;
 }
 
-
+@media screen and (max-width: 575px) {
+    
+    .ms-main-nav ul{
+        display: none;
+    }
+    .ms-hamburger-nav{
+        display: block;
+        text-align: end;
+    }
+}
 /*------------------
     MAIN
 --------------------*/
