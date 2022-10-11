@@ -19,6 +19,10 @@
     text-decoration: none;
     color: inherit;
 }
+.ms-hamburger-nav{
+    display: none;
+}
+
 
 /*------------------
     MAIN
