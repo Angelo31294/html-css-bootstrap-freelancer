@@ -53,21 +53,25 @@ li{
     color: #fff;
 }
 
-@media screen and (min-width: 575px) {
-    
-    #about .container{
-        max-width: 19.375rem;
-    }
+.ms-container-custom{
+    max-width: 19.375rem;
 }
+
 @media screen and (min-width: 768px) {
 
-    #about .container{
+    #about .ms-container-custom{
+        max-width: 42.5rem;
+    }
+    #contact .ms-container-custom{
         max-width: 42.5rem;
     }
 }
 @media screen and (min-width: 992px) {
 
-    #about .container{
+    #about .ms-container-custom{
+        max-width: 56.25rem;
+    }
+    #contact .ms-container-custom{
         max-width: 56.25rem;
     }
 }
