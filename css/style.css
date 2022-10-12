@@ -85,7 +85,12 @@ button{
     padding: .5rem 1rem;
     border-radius: .1875rem;
 }
-
+.ms-btn-contact{
+    background-color: #1abc9c;
+    color: #fff;
+    padding: .25rem .5rem;
+    border-radius: .1875rem;
+}
 .ms-btn-social{
     border: .0625rem solid #fff;
     border-radius: 50%;
