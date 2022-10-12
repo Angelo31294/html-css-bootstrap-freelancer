@@ -78,3 +78,31 @@ button{
     border: none;
     color: inherit;
 }
+
+.ms-btn-about{
+    border: .0625rem solid #fff;
+    font-size: small;
+    padding: .5rem 1rem;
+    border-radius: .1875rem;
+}
+
+.ms-btn-social{
+    border: .0625rem solid #fff;
+    border-radius: 50%;
+}
+
+/*------------------
+    SOCIAL
+--------------------*/
+.fa-facebook-f{
+    padding: 5px 4px;
+}
+.fa-google-plus-g{
+    padding: 5px 0px;
+}
+.fa-twitter{
+    padding: 5px 1px;
+}
+.fa-linkedin-in{
+    padding: 5px 2px;
+}
