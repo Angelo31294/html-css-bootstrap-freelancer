@@ -54,26 +54,9 @@ li{
 }
 
 .ms-container-custom{
-    max-width: 19.375rem;
-}
-
-@media screen and (min-width: 768px) {
-
-    #about .ms-container-custom{
-        max-width: 42.5rem;
-    }
-    #contact .ms-container-custom{
-        max-width: 42.5rem;
-    }
-}
-@media screen and (min-width: 992px) {
-
-    #about .ms-container-custom{
-        max-width: 56.25rem;
-    }
-    #contact .ms-container-custom{
-        max-width: 56.25rem;
-    }
+    /* max-width: 56.25rem; */
+    width: 80%;
+    margin: auto;
 }
 
 /*------------------
