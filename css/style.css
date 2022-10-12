@@ -12,8 +12,25 @@
     background-color: #1abc9c;
     color: #fff;
 }
+
 #hero img{
     max-height: 16.25rem;
+}
+
+.ms-star{
+    font-size: 1.5rem;
+}
+
+.ms-bar-white{
+    background-color: #fff;
+    width: 6.25rem;
+    height: .25rem;
+}
+
+.ms-bar-black{
+    background-color: #000;
+    width: 6.25rem;
+    height: .25rem;
 }
 
 #portfolio img{
